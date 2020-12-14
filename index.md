@@ -4,7 +4,7 @@
 ## Que son las redes neuronales
 Las redes neuronales artificiales son un modelo computacional vagamente inspirado en el comportamiento observado en su homólogo biológico​. Consiste en un conjunto de unidades, llamadas neuronas artificiales, conectadas entre sí para transmitirse señales.
 
-https://www.google.com/search?q=Que+son+las+redes+neuronales&safe=active&client=opera-gx&hs=GP1&sxsrf=ALeKk02_7_wDRDGXgaHgRDC77d2gUSYrRA:1607911385431&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjnxNXXsMztAhWEtlkKHa8GAxQQ_AUoAXoECBEQAw&biw=1325&bih=627#imgrc=Xs5f1TjypjCe2M
+![Red neuronal](https://www.bravent.net/wp-content/uploads/2019/03/redes-neuronales-post-marzo-WP-1080x870.jpg)
 
 
 
@@ -13,7 +13,6 @@ https://www.google.com/search?q=Que+son+las+redes+neuronales&safe=active&client=
 ## Cuál es su relacion con la tería de grafos
 La teoría de grafos, también llamada teoría de gráficas, es una rama de las matemáticas y las ciencias de la computación que estudia las propiedades de los grafos. Los grafos no deben ser confundidos con las gráficas, que es un término muy amplio.
 
-https://www.google.com/search?q=la+teoría+de+grafos&safe=active&client=opera-gx&sxsrf=ALeKk03F68jZKgy5QbjgBbQ7OidQU4cckQ:1607911855732&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjDt_a3ssztAhWGjlkKHZYeCD0Q_AUoAXoECBIQAw&biw=1325&bih=627#imgrc=JRBvlvU65QlbtM
 
 
 
