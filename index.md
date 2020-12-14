@@ -1,8 +1,9 @@
 ## Bienvenido a este blog 
 
 ## Este proyecto fue posible gracias a a las redes neuronales
-## Que son las redes neuroanles
-## Cuál es su relacion con la tería de grafoas
+Las redes neuronales artificiales son un modelo computacional vagamente inspirado en el comportamiento observado en su homólogo biológico​. Consiste en un conjunto de unidades, llamadas neuronas artificiales, conectadas entre sí para transmitirse señales.
+## Que son las redes neuronales
+## Cuál es su relacion con la tería de grafos
 Incluir imagenes
 
 
