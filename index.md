@@ -19,7 +19,7 @@ La teoría de grafos, también llamada teoría de gráficas, es una rama de las 
 
 
 
-##ENLACES
+## ENLACES
 
 https://blog.enzymeadvisinggroup.com/redes-neuronales-que-son-y-aplicaciones
 
@@ -28,21 +28,21 @@ https://towardsdatascience.com/graph-theory-and-deep-learning-know-hows-6556b0e9
 https://revistadigital.inesem.es/informatica-y-tics/teoria-grafos/
 
 
-##########################################################TIPOS DE GRAFOS###########################################
+##                                                             TIPOS DE GRAFOS
 
 ![Grafos](http://1.bp.blogspot.com/-gLPN4WksQrI/VdP2Q0SDPoI/AAAAAAAAACY/o0cSmF8K2Ck/s400/444.jpg)
 
-##Grafo simple. o simplemente grafo
+## Grafo simple. o simplemente grafo
 Es aquel que acepta una sola arista uniendo dos vértices cualesquiera. Esto es equivalente a decir que una arista cualquiera es la única que une dos vértices específicos. Es la definición estándar de un grafo.
 
 ![Grafos](http://3.bp.blogspot.com/-qUoQqe1_YJg/VdP2TOPEQGI/AAAAAAAAACg/3HbZUx8d9ag/s320/555.png)
 
-##Multigrafo. o pseudografo 
+## Multigrafo. o pseudografo 
 Son grafos que aceptan más de una arista entre dos vértices. Estas aristas se llaman múltiples o lazos (loops en inglés). Los grafos simples son una subclase de esta categoría de grafos. También se les llama grafos no-dirigido.
 
 ![Grafos](http://2.bp.blogspot.com/-vxdIwKGJTm4/VdP2VoeSC8I/AAAAAAAAACo/mBGulKCJ5QU/s400/666.jpg)
 
-##Grafo dirigido
+## Grafo dirigido
 Son grafos en los cuales se ha añadido una orientación a las aristas, representada gráficamente por una flecha.
 
 ![Grafos](http://1.bp.blogspot.com/-16WZvkHds6M/VdP2YGJUZEI/AAAAAAAAACw/D42zUhIzIw4/s400/777.png)
