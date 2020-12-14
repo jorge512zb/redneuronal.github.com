@@ -25,7 +25,7 @@ Con lo anterior, se ha logrado demostrar que con el sistema de visión computaci
 Uno de los componentes micro mecánicos producidos por las micro máquinas son los micro tornillos. Éstos son componentes necesarios construir mecanismos en miniatura.
 Pero además, para desarrollar diferentes paradigmas de redes neuronales, el grupo de investigación trata de realizar el reconocimiento de cifras escritas a mano con redes neuronales, así como el reconocimiento de rostros humanos y de escarabajos entre el follaje.
 
-##Detección de plagas
+## Detección de plagas
 Se trata de un proyecto enfocado al desarrollo de un instrumento de búsqueda, detección y reconocimiento de plagas, en específico del escarabajo de colorado en cultivos de papas aplicando clasificadores neuronales artificiales.
 
 ![Red neuronal](http://ciencia.unam.mx/uploads/textos/imagenes/ar_redes_neuronales_02_21062018.jpg)
@@ -76,3 +76,19 @@ Grafos en los cuales se ha añadido un peso a las aristas (número entero genera
 
 ![Grafos](http://2.bp.blogspot.com/-UkYPdhK-DVc/VdP2aTcC8oI/AAAAAAAAAC4/GVE4PTIFGCM/s320/888.png)
 
+## Grafo completo
+En cuanto a los grafos completos hay que dejar en claro, que posee la composición, elementos y características de un grafo simple. Estos poseen vértices que están conectados a través de aristas.
+
+![Grafos](https://www.grapheverywhere.com/wp-content/uploads/2019/07/drupal-graph-databases-neo4j-rules-integration-1024x581.png)
+
+La particularidad que debe cumplirse en este caso para que un grafo este completo, es que cada par de vértices debe estar interconectado entre sí con diferentes conjuntos de aristas.
+Dentro de este concepto debemos contemplar también lo que se conoce como un camino. Donde matemáticamente se demuestra que un camino P de longitud n  desde un nodo u se define como la secuencia  de n+1 nodos. Teniéndose entonces la siguiente formulación:
+
+P= (v0i, Vi+ V2i,….Vm) Entonces u=V0i es adyacente a para i=1,2,…, n; y . El camino P se dice que es cerrado si Vo=Vn. El camino P se dice que es simple se todos los nodos son distintos a  excepción de  que puede ser igual a  ; es decir, P es simple si los nodos Vo, V1,,,,Vn-1…son distintos y los nodos V1,V,2,,,Vn  son también distintos.
+
+## Grafo conexo
+Estos grafos son muy interesantes y a medida que aumenta su nivel de complejidad, incrementan las posibilidades de nuestros proyectos. Para que un grafo G se considere conexo debe cumplir una condición de que exista un camino simple para cualquiera de dos de los nodos que lo integran. De la construcción de estos nodos nace lo que conocemos como un árbol.
+Un grafo conexo T que no contenga ciclos, es un árbol o árbol libre. Esto significa que existe la condición de poseer un camino simple entre cada uno de los nodos. En el caso de que este grafo sea finito se tendrá que el grafo conexo T tendrá m-1 aristas en su haber.
+
+
+![Grafos](https://lh3.googleusercontent.com/proxy/6yYenBS2kczHmHZisqoUIgfo059EMoq6IN-IHqlxeRwKh8b5soWFhM-23VkVvJ9a5cabWlcwMFMWKRIp6Ot1kMCJkZtX70jxktb-lWbyFqDY600mBmnZ)
